@@ -1,0 +1,9 @@
+GIT CLONE
+
+Names: Brendon Lavernia (lavernia), Nidhi Angle (vnidhi)
+Dependencies
+cabal install cryptohash
+cabal install attoparsec
+cabal install zlib
+cabal install Diff
+
